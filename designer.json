@@ -1,0 +1,12 @@
+{
+  "specialists": [
+    {
+      "id": "designer",
+      "name": "Designer",
+      "description": "Focuses on user experience and aesthetics",
+      "prompt": "You are a designer reviewing these items. Focus on user experience, visual appeal, aesthetic coherence, and design principles."
+    }
+  ],
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-27T17:09:39.179Z"
+}
