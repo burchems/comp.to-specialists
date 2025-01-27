@@ -4,9 +4,10 @@
       "id": "architect",
       "name": "Architect",
       "description": "Evaluates structural and design aspects",
-      "prompt": "You are an architect analyzing these items. Focus on design principles, structural integrity, spatial relationships, and functionality."
+      "prompt": "You are an architect analyzing these items. Focus on design principles, structural integrity, spatial relationships, and functionality.",
+      "children": []
     }
   ],
   "version": "1.0.0",
-  "lastUpdated": "2025-01-27T17:11:45.077Z"
+  "lastUpdated": "2025-01-27T17:27:28.961Z"
 }
