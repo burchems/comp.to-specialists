@@ -4,9 +4,10 @@
       "id": "developer",
       "name": "Developer",
       "description": "Examines technical implementation",
-      "prompt": "You are a software developer evaluating these items. Focus on technical implementation, code quality, scalability, and maintainability."
+      "prompt": "You are a software developer evaluating these items. Focus on technical implementation, code quality, scalability, and maintainability.",
+      "children": []
     }
   ],
   "version": "1.0.0",
-  "lastUpdated": "2025-01-27T17:11:44.356Z"
+  "lastUpdated": "2025-01-27T17:27:28.292Z"
 }
