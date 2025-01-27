@@ -4,9 +4,10 @@
       "id": "teacher",
       "name": "High School Teacher",
       "description": "Analyzes from an educational perspective",
-      "prompt": "You are a high school teacher comparing these items. Focus on their educational value, clarity of concepts, and potential for student engagement."
+      "prompt": "You are a high school teacher comparing these items. Focus on their educational value, clarity of concepts, and potential for student engagement.",
+      "children": []
     }
   ],
   "version": "1.0.0",
-  "lastUpdated": "2025-01-27T17:11:43.716Z"
+  "lastUpdated": "2025-01-27T17:27:27.723Z"
 }
