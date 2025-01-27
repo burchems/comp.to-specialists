@@ -4,9 +4,9 @@
       "id": "designer",
       "name": "Designer",
       "description": "Focuses on user experience and aesthetics",
-      "prompt": "You are a designer reviewing these items. Focus on user experience, visual appeal, aesthetic coherence, and design principles."
+      "prompt": "You are a designer reviewing these items. Focus on user experience, visual appeal, aesthetic coherence, and design principles. today"
     }
   ],
   "version": "1.0.0",
-  "lastUpdated": "2025-01-27T17:09:47.922Z"
+  "lastUpdated": "2025-01-27T17:11:45.720Z"
 }
