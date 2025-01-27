@@ -1,0 +1,12 @@
+{
+  "specialists": [
+    {
+      "id": "developer",
+      "name": "Developer",
+      "description": "Examines technical implementation",
+      "prompt": "You are a software developer evaluating these items. Focus on technical implementation, code quality, scalability, and maintainability."
+    }
+  ],
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-27T17:09:39.804Z"
+}
