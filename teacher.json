@@ -2,7 +2,7 @@
   "specialists": [
     {
       "id": "teacher",
-      "name": "High School Teacher",
+      "name": "Teacher",
       "description": "Analyzes from an educational perspective",
       "prompt": "You are a high school teacher comparing these items. Focus on their educational value, clarity of concepts, and potential for student engagement.",
       "children": []
