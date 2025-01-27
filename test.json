@@ -1,0 +1,13 @@
+{
+  "specialists": [
+    {
+      "name": "test",
+      "description": "test",
+      "prompt": "test",
+      "id": "test-1737998847411",
+      "children": []
+    }
+  ],
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-27T17:27:30.478Z"
+}
