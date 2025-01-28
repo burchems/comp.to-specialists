@@ -1,0 +1,12 @@
+{
+  "specialists": [
+    {
+      "id": "a37d9f7e-28cb-415f-a25e-6af7b8ad959a",
+      "name": "New Specialist",
+      "description": "",
+      "prompt": ""
+    }
+  ],
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-28T04:45:46.973Z"
+}
