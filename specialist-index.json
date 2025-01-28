@@ -1,32 +1,50 @@
 {
-    "lastUpdated": "2025-01-28T10:51:48-07:00",
+    "lastUpdated": "2025-01-28T14:05:16-07:00",
     "specialists": [
+      {
+        "id": "architect",
+        "name": "Architect",
+        "type": "architect"
+      },
+      {
+        "id": "designer",
+        "name": "Designer",
+        "type": "designer"
+      },
+      {
+        "id": "developer",
+        "name": "Developer",
+        "type": "developer"
+      },
+      {
+        "id": "fighter",
+        "name": "Fighter",
+        "type": "fighter"
+      },
+      {
+        "id": "pilot",
+        "name": "Pilot",
+        "type": "pilot"
+      },
       {
         "id": "teacher",
         "name": "Teacher",
         "type": "teacher",
         "children": [
           {
-            "id": "math-teacher",
-            "name": "Math Teacher",
+            "id": "teacher-high-school",
+            "name": "High School Teacher",
             "type": "teacher",
             "parentId": "teacher"
           }
         ]
       },
       {
-        "id": "developer",
-        "name": "Developer",
-        "type": "developer",
-        "children": [
-          {
-            "id": "frontend-developer",
-            "name": "Frontend Developer",
-            "type": "developer",
-            "parentId": "developer"
-          }
-        ]
+        "id": "trainer",
+        "name": "Trainer",
+        "type": "trainer"
       }
-    ]
+    ],
+    "version": "1.0.0"
   }
   

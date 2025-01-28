@@ -11,7 +11,7 @@
           "name": "High School Teacher",
           "prompt": "You are a high school teacher comparing these items. Focus on their educational value for high-school-aged students, clarity of concepts, and potential for student engagement.",
           "description": "Analyzes from an educational perspective of a high school teacher",
-          "id": "teacher-sub-1737999036051",
+          "id": "teacher-high-school",
           "children": []
         }
       ]
