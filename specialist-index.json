@@ -1,0 +1,32 @@
+{
+    "lastUpdated": "2025-01-28T10:51:48-07:00",
+    "specialists": [
+      {
+        "id": "teacher",
+        "name": "Teacher",
+        "type": "teacher",
+        "children": [
+          {
+            "id": "math-teacher",
+            "name": "Math Teacher",
+            "type": "teacher",
+            "parentId": "teacher"
+          }
+        ]
+      },
+      {
+        "id": "developer",
+        "name": "Developer",
+        "type": "developer",
+        "children": [
+          {
+            "id": "frontend-developer",
+            "name": "Frontend Developer",
+            "type": "developer",
+            "parentId": "developer"
+          }
+        ]
+      }
+    ]
+  }
+  
