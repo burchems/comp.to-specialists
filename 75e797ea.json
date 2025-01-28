@@ -4,9 +4,10 @@
       "id": "75e797ea-bcff-4efc-b13e-a5ef261fc9e7",
       "name": "New Specialist",
       "description": "",
-      "prompt": ""
+      "prompt": "",
+      "children": []
     }
   ],
   "version": "1.0.0",
-  "lastUpdated": "2025-01-28T04:52:13.036Z"
+  "lastUpdated": "2025-01-28T04:53:09.460Z"
 }
