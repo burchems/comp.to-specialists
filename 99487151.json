@@ -4,9 +4,10 @@
       "id": "99487151-7685-4432-b332-ead6a7c30fd3",
       "name": "New",
       "description": "",
-      "prompt": ""
+      "prompt": "",
+      "children": []
     }
   ],
   "version": "1.0.0",
-  "lastUpdated": "2025-01-28T04:47:44.289Z"
+  "lastUpdated": "2025-01-28T04:52:05.681Z"
 }
