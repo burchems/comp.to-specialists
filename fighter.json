@@ -1,0 +1,12 @@
+{
+  "specialists": [
+    {
+      "id": "fighter",
+      "name": "Fighter",
+      "description": "a",
+      "prompt": "b"
+    }
+  ],
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-28T05:07:30.899Z"
+}
