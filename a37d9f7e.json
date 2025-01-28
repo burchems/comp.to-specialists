@@ -4,9 +4,10 @@
       "id": "a37d9f7e-28cb-415f-a25e-6af7b8ad959a",
       "name": "Parent",
       "description": "1",
-      "prompt": "2"
+      "prompt": "2",
+      "children": []
     }
   ],
   "version": "1.0.0",
-  "lastUpdated": "2025-01-28T04:46:15.820Z"
+  "lastUpdated": "2025-01-28T04:47:35.887Z"
 }
