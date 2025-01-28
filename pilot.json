@@ -4,9 +4,10 @@
       "id": "pilot",
       "name": "Pilot",
       "description": "1",
-      "prompt": "2"
+      "prompt": "2",
+      "children": []
     }
   ],
   "version": "1.0.0",
-  "lastUpdated": "2025-01-28T04:59:35.580Z"
+  "lastUpdated": "2025-01-28T05:07:29.690Z"
 }
