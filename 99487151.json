@@ -2,11 +2,11 @@
   "specialists": [
     {
       "id": "99487151-7685-4432-b332-ead6a7c30fd3",
-      "name": "New Specialist",
+      "name": "New",
       "description": "",
       "prompt": ""
     }
   ],
   "version": "1.0.0",
-  "lastUpdated": "2025-01-28T04:47:32.314Z"
+  "lastUpdated": "2025-01-28T04:47:44.289Z"
 }
