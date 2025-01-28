@@ -3,10 +3,10 @@
     {
       "id": "c9ee89f0-26b2-449f-9c5c-ab6a4e41e67a",
       "name": "New Specialist",
-      "description": "",
+      "description": "test doctor",
       "prompt": "you are a md doctor"
     }
   ],
   "version": "1.0.0",
-  "lastUpdated": "2025-01-28T04:30:35.517Z"
+  "lastUpdated": "2025-01-28T04:30:45.748Z"
 }
